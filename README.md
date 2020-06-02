@@ -1,4 +1,7 @@
-# Machine Learning
+## Capstone
+
+
+## Machine Learning Algorithms
 
 [Linear Regression](https://www.kaggle.com/kyubii/linear-regression)
 
