@@ -1,12 +1,12 @@
 # Machine Learning
 
-[Support Vector Machine](https://www.kaggle.com/kyubii/support-vector-machine)
-
-[Naive Bayes Algorithm](https://www.kaggle.com/kyubii/naive-bayes-algorithm)
+[Linear Regression](https://www.kaggle.com/kyubii/linear-regression)
 
 [Logistic Regression](https://www.kaggle.com/kyubii/logistic-regression)
 
-[Linear Regression](https://www.kaggle.com/kyubii/linear-regression)
+[Support Vector Machine](https://www.kaggle.com/kyubii/support-vector-machine)
+
+[Naive Bayes Algorithm](https://www.kaggle.com/kyubii/naive-bayes-algorithm)
 
 
 ### Simple Tutorial
